@@ -4,7 +4,6 @@ This MySQL project involves designing, implementing, and analyzing a relational 
 
 ## Project Files
 - <a href="https://github.com/sumiya-sadiya-analyst/MySQL_Project-eCommerce_DB/blob/main/E-commerce_DB_Portfolio_Project.pdf">PDF File</a>
-- <a href="">PPT File</a>
 
 ## Project Schema
 ![image](https://github.com/user-attachments/assets/d4f593bb-c1ed-4f9a-aadd-a58f9441900f)
